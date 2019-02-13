@@ -1,3 +1,3 @@
 # SQLZoo
 
-# Solutions to challenges of SQLZoo - http://sqlzoo.net/
+Solutions to challenges of SQLZoo - http://sqlzoo.net/
